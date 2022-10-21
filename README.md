@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ModiFir3/ModiFir3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ModiFir3&layout=compact&theme=merko"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ModiFir3&layout=compact&theme=radical"/>
