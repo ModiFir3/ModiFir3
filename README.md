@@ -20,10 +20,9 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ModiFir3&&layout=compact&theme=radical" /> 
 </p>
 
-<p>
+<p align="center">
 Stat Cards created by:
 </p>
-
-<p>
-[anuraghazra](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+[Anurag Hazara](https://github.com/anuraghazra/github-readme-stats)
 </p>
