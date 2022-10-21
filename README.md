@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github stats](<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ModiFir3&layout=compact"/>)
+(<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ModiFir3&layout=compact"/>)
