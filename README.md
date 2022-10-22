@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 Stat Cards created by:
 </p>
 
-Anurag Hazara(https://github.com/anuraghazra/github-readme-stats)
+[Anurag Hazara](https://wwww.github.com/anuraghazra/github-readme-stats)
 
