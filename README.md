@@ -20,9 +20,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ModiFir3&&layout=compact&theme=radical" /> 
 </p>
 
-<p align="center">
-Stat Cards created by:
-</p>
-
-[AnuragHazara](www.github.com)
+###### Stat Cards created by:
+###### [AnuragHazara](https://github.com/anuraghazra/github-readme-stats)
 
