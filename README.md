@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 <p align="center">
 Stat Cards created by:
 </p>
-<p align="center">
+
 [AnuragHazara](www.github.com)
-</p>
+
