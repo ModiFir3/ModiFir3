@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 Stat Cards created by:
 </p>
 <p align="center">
-[Anurag Hazara](https://www.github.com/anuraghazra)
+[Anurag Hazara](www.github.com)
 </p>
